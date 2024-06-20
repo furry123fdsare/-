@@ -109,7 +109,7 @@ You should use {instance_prompt} to trigger the image generation.
 
 ## License
 
-Please adhere to the licensing terms as described `[here](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/LICENSE)`.
+Please adhere to the licensing terms as described `[here](https://huggingface.co/gfdsgreagregt/your_project_name/blob/main/LICENSE)`.
 """
     model_card = load_or_create_model_card(
         repo_id_or_path=repo_id,
